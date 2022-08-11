@@ -1,2 +1,4 @@
-# MathYouKnow
-A collection for math learning
+
+A collection for mathmetics resources.
+
+
